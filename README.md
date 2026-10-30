@@ -1,4 +1,4 @@
-# 🛠️Global Visual Standard for Embedded PCB Components (Open-EPS) / Παγκόσμιο Οπτικό Σύμβολο Προειδοποίησης Ενσωματωμένων Εξαρτημάτων PCB
+# Global Visual Standard for Embedded PCB Components (Open-EPS) / Παγκόσμιο Οπτικό Σύμβολο Προειδοποίησης Ενσωματωμένων Εξαρτημάτων PCB
 
 [English Version](#english-version) | [Ελληνική Έκδοση](#ελληνική-έκδοση)
 
