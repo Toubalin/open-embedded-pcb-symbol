@@ -33,6 +33,9 @@ The project offers two alternative visual approaches for the designer to choose 
 ### AI Disclaimer
 Design Note: The core concept, functionality, selection of electronic symbols, and structural variations belong entirely to the human creator. The visual execution, digitization, and production of the final graphic assets (icons) were developed with the assistance of Artificial Intelligence (AI-Generated Graphics), following precise and iterative design instructions (prompt engineering) to achieve the final industrial-grade result.
 
+### Limitation of Liability / Disclaimer**
+This symbol is provided "as is", for informational and visual warning purposes only, without any express or implied warranty of any kind, including but not limited to warranties of fitness for a particular purpose or non-infringement. In no event shall the creator be liable for any claim, damages, PCB destruction, financial loss, or other liability arising from the use, printing, or reliance on this symbol. Technicians and manufacturers use it entirely at their own risk.
+
 ### License
 Both versions of the symbol are distributed under the global Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). 
 *   Allowed: Free use, integration, and printing of the symbol on any commercial or open-source hardware project worldwide, without any cost or state fees.
@@ -62,7 +65,11 @@ Both versions of the symbol are distributed under the global Creative Commons At
 ---
 
 ### Δήλωση Χρήσης Τεχνητής Νοημοσύνης (AI Disclaimer)
-Σημείωση Σχεδίασης: Η σύλληψη της ιδέας, η λειτουργικότητα, η επιλογή των ηλεκτρονικών συμβόλων και η δομή των παραλλαγών ανήκουν αποκλειστικά στον δημιουργό. Η οπτική υλοποίηση, η ψηφιοποίηση και η παραγωγή των τελικών γραφικών αρχείων (icons) πραγματοποιήθηκαν με τη συνδρομή εργαλείων Τεχνητής Νοημοσύνης (AI-Generated Graphics), ακολουθώντας ακριβείς και διαδοχικές σχεδιαστικές οδηγίες (prompt engineering) για την επίτευξη του τελικού βιομηχανικού αποτελέσματος.
+Σημείωση Σχεδίασης: Η σύλληψη της ιδέας, η λειτουργικότητα, η επιλογή των ηλεκτρονικών συμβόλων και η δομή των παραλλαγών ανήκουν αποκλειστικά στον δημιουργό. Η οπτική υλοποίηση, η ψηφιοποίηση και η παραγωγή των τελικών γραφικών αρχείων (icons) πραγματοποιήθηκαν με τη συνδρομή εργαλείων Τεχνητής Νοημοσύνης (AI-Generated Graphics), ακολουθώντας ακριβείς και διαδοχικές σχεδιαστικές οδηγίες (prompt 
+engineering) για την επίτευξη του τελικού βιομηχανικού αποτελέσματος.
+
+### Περιορισμός Ευθύνης / Αποποίηση
+Το παρόν σύμβολο παρέχεται «ως έχει», αποκλειστικά για σκοπούς ενημέρωσης και οπτικής προειδοποίησης, χωρίς καμία ρητή ή σιωπηρή εγγύηση οποιουδήποτε είδους (καταλληλότητας, ορθότητας ή μη παραβίασης). Σε καμία περίπτωση ο δημιουργός δεν φέρει ευθύνη για οποιαδήποτε αξίωση, ζημία, καταστροφή υλικού (PCB), οικονομική απώλεια ή άλλη ευθύνη που προκύπτει από τη χρήση, την εκτύπωση ή την εμπιστοπύνη σε αυτό το σύμβολο. Οι τεχνικοί και οι κατασκευαστές το χρησιμοποιούν αποκλειστικά με δική τους ευθύνη.
 
 ### Άδεια Χρήσης (License)
-Και οι δύο εκδοχές του συμβόλου διατίθενται υπό την παγκόσμια άδεια Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).   Επιτρέπεται: Η ελεύθερη χρήση, ενσωμάτωση και εκτύπωση του συμβόλου σε οποιοδήποτε εμπορικό ή open-source hardware project παγκοσμίως, χωρίς κανένα κόστος ή παράβολο.   Απαιτείται: Η αναφορά στο όνομα του δημιουργού.   Απαγορεύεται: Η τροποποίηση ή αλλαγή των σχεδιαστικών στοιχείων, προκειμένου να διατηρηθεί η ομοιομορφία του συμβόλου ως παγκόσμιο σταθερό πρότυπο (standard).
+Και οι δύο εκδοχές του συμβόλου διατίθενται υπό την παγκόσμια άδεια Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).   Επιτρέπεται: Η ελεύθερη χρήση, ενσωμάτωση και εκτύπωση του συμβόλου σε οποιοδήποτε εμπορικό ή open-source hardware project παγκοσμίως, χωρίς κανένα κόστος ή παράβολο.   Απαιτείται: Η αναφορά στο όνομα του δημιουργού.   Απαγορεύεται: Η τροποποίηση ή αλλαγή των σχεδιαστικών στοιχείων, προκειμένου να διατηρηθεί η ομοιομορφία του συμβόλου ως παγκόσμιο σταθερό πρότυπο (standard). 
