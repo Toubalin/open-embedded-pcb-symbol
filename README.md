@@ -36,13 +36,10 @@ Design Note: The core concept, functionality, selection of electronic symbols, a
 ### Limitation of Liability / Disclaimer
 This symbol is provided "as is", for informational and visual warning purposes only, without any express or implied warranty of any kind, including but not limited to warranties of fitness for a particular purpose or non-infringement. In no event shall the creator be liable for any claim, damages, PCB destruction, financial loss, or other liability arising from the use, printing, or reliance on this symbol. Technicians and manufacturers use it entirely at their own risk.
 
-### License
-Both versions of the symbol are distributed under the global Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). 
-*   Allowed: Free use, integration, and printing of the symbol on any commercial or open-source hardware project worldwide, without any cost or state fees.
-*   Required: Attribution to the original creator.
-*   Prohibited: Modification or alteration of the design elements, in order to maintain the uniformity of the symbol as a global, stable standard.
+Both versions of the symbol are licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license, allowing free commercial and open-source use at no cost.
 
----
+Color Exception:  
+As an exception to the NoDerivatives (ND) restriction, modification of the symbol's colors is exclusively permitted (e.g., conversion to grayscale, monochrome for PCB/silkscreen printing, or adaptation to an application's color palette). Any other modification, distortion, alteration of proportions, or removal and addition of elements to the shape and structure of the symbol remains strictly prohibited, in order to maintain its uniformity as a universal fixed standard.
 
 ## Ελληνική Έκδοση
 
@@ -71,4 +68,7 @@ Both versions of the symbol are distributed under the global Creative Commons At
 Το παρόν σύμβολο παρέχεται «ως έχει», αποκλειστικά για σκοπούς ενημέρωσης και οπτικής προειδοποίησης, χωρίς καμία ρητή ή σιωπηρή εγγύηση οποιουδήποτε είδους (καταλληλότητας, ορθότητας ή μη παραβίασης). Σε καμία περίπτωση ο δημιουργός δεν φέρει ευθύνη για οποιαδήποτε αξίωση, ζημία, καταστροφή υλικού (πλακέτα), οικονομική απώλεια ή άλλη ευθύνη που προκύπτει από τη χρήση, την εκτύπωση ή την εμπιστοσύνη σε αυτό το σύμβολο. Οι τεχνικοί και οι κατασκευαστές το χρησιμοποιούν αποκλειστικά με δική τους ευθύνη.
 
 ### Άδεια Χρήσης (License)
-Και οι δύο εκδοχές του συμβόλου διατίθενται υπό την παγκόσμια άδεια Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).   Επιτρέπεται: Η ελεύθερη χρήση, ενσωμάτωση και εκτύπωση του συμβόλου σε οποιοδήποτε εμπορικό ή open-source hardware project παγκοσμίως, χωρίς κανένα κόστος ή παράβολο.   Απαιτείται: Η αναφορά στο όνομα του δημιουργού.   Απαγορεύεται: Η τροποποίηση ή αλλαγή των σχεδιαστικών στοιχείων, προκειμένου να διατηρηθεί η ομοιομορφία του συμβόλου ως παγκόσμιο σταθερό πρότυπο (standard). 
+
+Και οι δύο εκδοχές του συμβόλου διατίθενται υπό την παγκόσμια άδεια Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), επιτρέποντας την ελεύθερη εμπορική και open-source χρήση τους χωρίς κανένα κόστος.
+Εξαίρεση Χρώματος:  
+Κατ' εξαίρεση των περιορισμών της άδειας ND (Όχι Παράγωγα), επιτρέπεται αποκλειστικά η αλλαγή των χρωμάτων του συμβόλου (π.χ. μετατροπή σε ασπρόμαυρο, μονόχρωμο για εκτύπωση σε πλακέτες/μεταξοτυπία ή προσαρμογή στη χρωματική παλέτα μιας εφαρμογής). Οποιαδήποτε άλλη τροποποίηση, παραμόρφωση, αλλαγή στις αναλογίες, αφαίρεση ή προσθήκη στοιχείων στο σχήμα και τη δομή του συμβόλου απαγορεύεται αυστηρά, προκειμένου να διατηρηθεί η ομοιομορφία του ως παγκόσμιο σταθερό πρότυπο.
